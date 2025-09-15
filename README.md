@@ -34,7 +34,6 @@ Here are some ideas to get you started:
  
   ![https://gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) ! [![Instagram.com](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sandhikagalih)
 
-## lets play with me
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maulanayogi938-lang/maulanayogi938-lang/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maulanayogi938-lang/maulanayogi938-lang/output/pacman-contribution-graph.svg">
@@ -46,5 +45,6 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/maulanayogi938-lang/maulanayogi938-lang/output/snake.svg" alt="Snake animation" />
 
 ###
+
 
 
