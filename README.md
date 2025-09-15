@@ -1,7 +1,8 @@
-## Hi there 👋
+## Hello! I'am Yogi Maulana  👋
 
+ ![Yogi Maulana](img/github-header-banner.jpg)
 <!--
-**maulanayogi938-lang/maulanayogi938-lang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**maulanayogi938-lang/bmaulanayogi938-lang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 I’m currently Studying at Politeknik Negeri Banyuwangi
+
