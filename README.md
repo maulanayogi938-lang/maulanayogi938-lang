@@ -65,5 +65,3 @@ Here are some ideas to get you started:
 ###
 
 <img src="https://raw.githubusercontent.com/maulanayogi938-lang/maulanayogi938-lang/output/snake.svg" alt="Snake animation" />
-
-###
