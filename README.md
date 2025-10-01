@@ -18,9 +18,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently Studying at Politeknik Negeri Banyuwangi
 - 🌱 I’m currently learning [**Laravel**](https://laravel.com) Framework
-
-<h2 align="center">🛠 Language and tools
-</h1>
+<h1 align="center">Hey 👋What's Up?</h1>
 
 ###
 
@@ -56,10 +54,16 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
 </div>
 
+###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maulanayogi938-lang/maulanayogi938-lang/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maulanayogi938-lang/maulanayogi938-lang/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maulanayogi938-lang/maulanayogi938-lang/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maulanayogi938-lang /maulanayogi938-lang /output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maulanayogi938-lang /maulanayogi938-lang /output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maulanayogi938-lang /maulanayogi938-lang /output/pacman-contribution-graph.svg">
 </picture>
 
+###
+
+<img src="https://raw.githubusercontent.com/maulanayogi938-lang /maulanayogi938-lang /output/snake.svg" alt="Snake animation" />
+
+###
