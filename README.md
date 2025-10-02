@@ -1,12 +1,26 @@
-## 👩‍💻 About Me
+## Hello! I'am Yogi Maulana  👋
 
- ![Yogi Maulana](img/github-header-banner.jpg) 
+ ![Yogi Maulana](img/github-header-banner.jpg)
+<!--
+**maulanayogi938-lang/bmaulanayogi938-lang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
 
 - 🌱 I’m currently Studying at Politeknik Negeri Banyuwangi
 - 🌱 I’m currently learning [**Laravel**](https://laravel.com) Framework
 <h1 align="center">🛠 Language and tools</h1>
 
+###
 ###
 
 <div align="center">
@@ -44,11 +58,9 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maulanayogi938-lang /maulanayogi938-lang /output/pacman-contribution-graph.svg">
 </picture>
 
-
 ###
 
 <img src="https://raw.githubusercontent.com/maulanayogi938-lang /maulanayogi938-lang /output/snake.svg" alt="Snake animation" />
 
 ###
-
 
