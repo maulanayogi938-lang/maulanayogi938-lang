@@ -53,9 +53,6 @@ Here are some ideas to get you started:
 
 ###
 
-
-###
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maulanayogi938-lang/maulanayogi938-lang/main/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maulanayogi938-lang/maulanayogi938-lang/main/pacman-contribution-graph.svg">
