@@ -1,4 +1,4 @@
-## Hello! 👋
+## About me👋
 
  ![Yogi Maulana](img/github-header-banner.jpg)
 <!--
