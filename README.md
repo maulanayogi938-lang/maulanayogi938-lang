@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently Studying at Politeknik Negeri Banyuwangi
 - 🌱 I’m currently learning [**Laravel**](https://laravel.com) Framework
-<h1 align="center">Hey 👋What's Up?</h1>
+<h1 align="center">🛠 Language and tools</h1>
 
 ###
 ###
