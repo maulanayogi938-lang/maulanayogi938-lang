@@ -1,6 +1,13 @@
-## Hello! I'am Yogi Maulana  👋
+## 👩‍💻 About Me
 
- ![Yogi Maulana](img/github-header-banner.jpg)
+ ![Yogi Maulana](img/github-header-banner.jpg) 
+
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
+
+
+ 
 <!--
 **maulanayogi938-lang/bmaulanayogi938-lang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -54,9 +61,10 @@ Here are some ideas to get you started:
 ###
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maulanayogi938-lang /maulanayogi938-lang /output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maulanayogi938-lang /maulanayogi938-lang /output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maulanayogi938-lang /maulanayogi938-lang /output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maulanayogi938-lang /maulanayogi938-lang /output/pacman-contribution-graph.svg">
 </picture>
+
 
 ###
 
